@@ -21,6 +21,13 @@
   </a>
 </p>
 
+
+> **Choose Language:**
+> 🇷🇺 Русский | [🇺🇸 English](ReadmeENG.md)
+
+
+### ENGLISH VERSION https://github.com/heops6767/depyps/blob/main/ReadmeENG.md
+
 <p align="center">
   <a href="#предупреждение">Предупреждение</a> •
   <a href="#о-проекте">О проекте</a> •
@@ -73,11 +80,9 @@
 ## 🛠️ Установка и запуск (для тестов на localhost)
 
 ```bash
-# Клонируйте репозиторий
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
 
-# Перейдите в директорию
-cd your-repo-name
+git clone https://github.com/heops6767/depyps.git
+cd depyps
 
 # Установите зависимости (рекомендуется venv)
 pip install -r requirements.txt
