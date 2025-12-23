@@ -28,6 +28,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
   </a>
+  
 </p>
 
 <p align="center">
@@ -80,3 +81,9 @@ While this is labeled as a "DoS tool," let’s look at the actual statistics:
 ```bash
 git clone https://github.com/heops6767/depyps.git
 cd depyps
+pip install -r requirements.txt
+python app.py
+
+```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=depyps/depyps&type=date&legend=top-left)](https://www.star-history.com/#depyps/depyps&type=date&legend=top-left)
