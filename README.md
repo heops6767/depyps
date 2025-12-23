@@ -89,3 +89,4 @@ pip install -r requirements.txt
 
 # Запустите Flask приложение
 python app.py
+[![Star History Chart](https://api.star-history.com/svg?repos=depyps/depyps&type=date&legend=top-left)](https://www.star-history.com/#depyps/depyps&type=date&legend=top-left)
