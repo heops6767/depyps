@@ -6,6 +6,13 @@
   <br>
 </h1>
 
+
+
+
+> **Выберите язык:**
+> [🇷🇺 Русский](README.md) | 🇺🇸 English
+
+---
 <h4 align="center">An experimental network stress-testing tool with a web interface.</h4>
 
 <p align="center">
